@@ -1,0 +1,32 @@
+
+body{
+    background-color: gray;
+}
+.logo{ 
+    width: 220px;
+    height: 120px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 100px 50px;
+    
+}
+header{
+    background-color: rgb(61, 216, 61);
+}
+.prds1{
+    margin: 1.5%;
+    
+
+}
+
+.footer{
+    margin-top: 10%;
+    width: 1860px;
+}
+.banner1{
+    width: 1860px;
+    height: 500px;
+}
+.logo{
+    position: absolute;
+}
